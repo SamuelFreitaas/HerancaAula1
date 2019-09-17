@@ -1,4 +1,4 @@
-package Qacademico;
+package herancaaula;
 
 public class Pessoa {
    private String nome;

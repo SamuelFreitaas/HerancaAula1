@@ -1,4 +1,4 @@
-package Qacademico;
+package herancaaula;
 
 public class Professor extends Pessoa {
     private String cursos;
